@@ -41,7 +41,7 @@
 
 ## `SCAN QR`
 
-[`Click Here`](https://replit.com/@KANNANSIR/kriz-ser-ofc-QR-Code)
+[`Click Here`](https://replit.com/@Arjunser5/Arjun-ser-ofc-QR-Code)
 
 ## `CHANGE SESSION`
 
