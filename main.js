@@ -42,7 +42,7 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
     const starts = async (bosco = new WAConnection()) => {
     bosco.version = [3,3234,9]
 	bosco.logger.level = 'warn'
-	console.log(color(figlet.textSync('KRIZ SER OFC', {
+	console.log(color(figlet.textSync('Arjun SER OFC', {
 		font: 'Standard',
 		horizontalLayout: 'default',
 		vertivalLayout: 'default',
@@ -51,7 +51,7 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
 	}), 'yellow'))
 	console.log(color('[KRIZ ]', 'cyan'), color('WELCOME', 'white'))
 	console.log(color('[SER]', 'cyan'), color('BOT RUNNING', 'yellow'))
-	bosco.browserDescription = ["KRIZ  SER OFC - [KRIZ -SER]", "edge", "3.0.0"];
+	bosco.browserDescription = ["Arjun  SER OFC - [Arjun -SER]", "edge", "3.0.0"];
 
 	// Menunggu QR
 	bosco.on('qr', () => {
