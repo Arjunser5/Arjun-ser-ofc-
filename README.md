@@ -1,15 +1,15 @@
 <div align="center">
-<img src="https://i.imgur.com/o9ySNtz.jpeg" alt="NinoBot" width="500" />
+<img src="https://i.imgur.com/pYZVyUc.jpeg" alt="NinoBot" width="500" />
 
-# KRIZ SER BOT
+# ✩♎︎ꪶ𝑀𝑅♘︎ 𝐴𝑅𝐽𝑈𝑁𝑆𝐸𝑅🎌ꫂ⁩⁩♎︎✩🇮🇳
 
-> KRIZ SER BOT is a multipurpose WhatsApp bot using Adiwajshing-Bail## `Deploy`
+> ARJUN SER BOT is a multipurpose WhatsApp bot using Adiwajshing-Bail## `Deploy`
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dilmano/Ameen-Ser-OFC/)
 >
 >
 
-<h3 align="center">Made with ❤️ by</h3>
+<h3 align="center">Made with ❤️ by✩♎︎ꪶ𝑀𝑅♘︎ 𝐴𝑅𝐽𝑈𝑁𝑆𝐸𝑅🎌ꫂ⁩⁩♎︎✩🇮🇳
 <p align="center">
   <a href="https://github.com/Nino-chan02"><img src="https://avatars.githubusercontent.com/u/81684610?s=400&u=25765902db0b709938966cf4127ac11af5eafb5d&v=4" height="128" width="128" /></a>
   <a href="https://github.com/Akkun3704"><img src="https://avatars.githubusercontent.com/u/75048902?s=400&v=4" height="128" width="128" /></a>
@@ -19,15 +19,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nino-chan02"><img title="Author" src="https://img.shields.io/badge/Authors-𝖐𝖗𝖎𝖟 𝖘𝖊𝖗 | 𝖐𝖗𝖎𝖟 𝖘𝖊𝖗-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Nino-chan02"><img title="Author" src="https://i.imgur.com/pYZVyUc.jpeg 𝐴𝑟𝑗𝑢𝑛 𝑠𝑒𝑟 | 𝐴𝑟𝑗𝑢𝑛 𝑠𝑒 𝑟-purple.svg?style=for-the-badge&logo=github" /></a>
 
-<h3 align="center">𝖐𝖗𝖎𝖟 𝖘𝖊𝖗</h3>
+<h3 align="center">ⒶⓇⒿⓊⓃ ⓈⒺⓇ</h3>
 <p align="center">
-  <a href="https://github.com/blooper-ser"><img src="https://www.linkpicture.com/view.php?img=LPic616bbf13b75fa1979813758.jpg" height="128" width="128" /></a>
+  <a href="https://github.com/blooper-ser"><img src="https://i.imgur.com/pYZVyUc.jpeg" height="128" width="128" /></a>
 
-<h3 align="center">𝖐𝖗𝖎𝖟 𝖘𝖊𝖗</h3>
+<h3 align="center">ⒶⓇⒿⓊⓃ ⓈⒺⓇ</h3>
 <p align="center">
-<a href="https://github.com/Dilmano"><img src="https://www.linkpicture.com/view.php?img=LPic616bbf13b75fa1979813758.jpg" height="128" width="128" /></a>
+<a href="https://github.com/Dilmano"><img src="https://i.imgur.com/pYZVyUc.jpeg" height="128" width="128" /></a>
 
 
 <p align="center">
@@ -61,8 +61,8 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/KANNANSIR/kriz-ser-ofc-
-cd kriz-ser-ofc-
+git clone https://github.com/Arjunser5/Arjun-ser-ofc-
+cd Arjun-ser-ofc-
 npm install
 node main
 ```
@@ -71,8 +71,8 @@ node main
 termux-setup-storage
 pkg update && pkg upgrade
 pkg install nodejs git ffmpeg libwebp 
-git clone https://github.com/KANNANSIR/kriz-ser-ofc-
-cd kriz-ser-ofc-
+git clone https://github.com/Arjunser5/Arjun-ser-ofc-
+cd Arjun-ser-ofc-
 npm install
 node main
 ```
