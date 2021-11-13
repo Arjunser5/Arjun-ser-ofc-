@@ -49,7 +49,7 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
 		width: 80,
 		whitespaceBreak: false
 	}), 'yellow'))
-	console.log(color('[KRIZ ]', 'cyan'), color('WELCOME', 'white'))
+	console.log(color('[ARJUN ]', 'cyan'), color('WELCOME', 'white'))
 	console.log(color('[SER]', 'cyan'), color('BOT RUNNING', 'yellow'))
 	bosco.browserDescription = ["Arjun  SER OFC - [Arjun -SER]", "edge", "3.0.0"];
 
