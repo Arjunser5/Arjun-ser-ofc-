@@ -51,7 +51,7 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
 	}), 'yellow'))
 	console.log(color('[KRIZ ]', 'cyan'), color('WELCOME', 'white'))
 	console.log(color('[SER]', 'cyan'), color('BOT RUNNING', 'yellow'))
-	bosco.browserDescription = ["KRIZ  SER OFC - [KRIZ -SER]", "edge", "3.0.0"];
+	bosco.browserDescription = ["ARJUN  SER OFC - [ARJUN -SER]", "edge", "3.0.0"];
 
 	// Menunggu QR
 	bosco.on('qr', () => {
